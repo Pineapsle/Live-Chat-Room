@@ -26,9 +26,9 @@ A real-time chat application enabling users to communicate instantly in a shared
 
 
 
-| Chat Interface 
-|----------------|
-| ![Chat Interface](screenshots/chat-interface.png) |
+| Chat Interface | Home Page | Live In Action |
+|----------------|-----------|----------------|
+| ![Chat Interface](Chat_room/screenshots/interface.png) | ![Home Page](Chat_room/screenshots/home.png) | ![Live In Action](Chat_room/screenshots/working.png) |
 
 ---
 
