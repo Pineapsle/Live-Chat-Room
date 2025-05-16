@@ -1,9 +1,3 @@
-#
-# START THE VIDEO AT 55:00 MINUTE MARK
-# LINK: https://www.youtube.com/watch?v=mkXdvs8H7TA
-# NEED TO ADD SOCKETIO TO THE APP
-#
-
 from flask import Flask, render_template, request, session, redirect, url_for
 from flask_socketio import SocketIO, join_room, leave_room, send
 import random
